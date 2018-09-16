@@ -86,7 +86,7 @@ Phase 4: RC intègre l'exo à la base, sous forme de variante de l'exo.
 * les titres des exos/versions doivent être suffisamment explicites. Un titre abrégé peut éventuellement être ajouté.
 * les exos doivent proposer un lien avec définition des termes qui le nécessitent.
 
-
+[* les exos doivent permettre d'apprendre quelque chose]
 
 
 
