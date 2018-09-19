@@ -20,6 +20,7 @@ Pour cela le professeur doit pouvoir créer un cours.
 Pouvoir créer une unité pédagogique : Exercice, Grain, module (un module est un composant d'un cours: sous partie, feuille d'exericice, chapitre, etc).
 
 
+==============
 
 Prof (P). exprime un besoin (Exo/Grain/Cours)
 Dans un contexte 
