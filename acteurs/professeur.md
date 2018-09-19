@@ -8,12 +8,12 @@ Le professeur est un créateur. IL hérite des capacités de l'acteur créateur.
 
 
 Pour cela le professeur doit pouvoir créer un cours. 
-1.  Définir pour ce cours l'ensemble du contexte associé : 
+1.  Définir pour ce cours l'ensemble du contexte associé :   
   1. Niveau, age, type , de la cohorte visée
   1. prérequis scientifiques et techniques pour aborder le cours (liens vers les unités pédagogiques si elles existes).
   1. discipline 
   1. Importance de la discipline pour les élèves : majeur, mineur
-2. Définir les unités pédagogiques qui compose le cours:
+2. Définir les unités pédagogiques qui compose le cours:  
   1. Description de chaque unité pédagogique nécessaire au cours. (ou liens si elles les UP existes).
 
 
