@@ -1,4 +1,4 @@
-Documents de gestion de l'éditeur interactif LaRuche
+# Documents de gestion de l'éditeur interactif LaRuche
 
 Projets d'extension de La Ruche :
 
