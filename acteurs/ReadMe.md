@@ -15,4 +15,3 @@ Pourquoi nous devons définir de façon exaustive et avec précision les acteurs
 * Prof (P). exprime un besoin (Exo/Grain/Cours).
 * Programmeur (P). Code des contenus.
 * Testeur code (TC). Vérifie qu'un contenu correspond effectivement à sa spécification, et qu'il n'est pas buggé.
-* Testeur disciplinaire (TD). Vérifie qu'un contenu est correct scientifiquement et raisonnable pédagogiquement, au vu du grain/cours auquel il est rattaché.
