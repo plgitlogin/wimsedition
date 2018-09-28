@@ -12,6 +12,6 @@ Pourquoi nous devons définir de façon exaustive et avec précision les acteurs
 * Responsable Editorial (RE). Responsable de la Ligne éditoriale du champ disciplinaire.
 * Responsable de Cours (RC): Valide les demandes d'Exos/Grains exprimé par (P).
 * Concepteur de contenus (CC). A partir d'un besoin exprimé par (P), écrit une spécification compréhensible par le programmeur.
-* Prof (P). exprime un besoin (Exo/Grain/Cours).
-* Programmeur (P). Code des contenus.
+* Prof (Pr). exprime un besoin (Exo/Grain/Cours).
+* Programmeur (Pg). Code des contenus.
 * Testeur code (TC). Vérifie qu'un contenu correspond effectivement à sa spécification, et qu'il n'est pas buggé.
