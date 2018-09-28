@@ -8,10 +8,11 @@ Pourquoi nous devons définir de façon exaustive et avec précision les acteurs
 
 # Acteurs:
 
-* Prof (P). exprime un besoin (Exo/Grain/Cours).
-* Developpeur (D). Code des exos.
-* Testeur code (TC). Vérifie qu'un exo fait ce qu'il doit faire, et qu'il n'est pas buggé.
-* Testeur disciplinaire (TD). Vérifie qu'un exo est correct scientifiquement et raisonnable pédagogiquement.
-* Responsable de Cours (RC): valide les demandes d'Exos/Grains.
-* Responsable de Champ disciplinaire (RD). valide les demandes de Cours.
+* Responsable de Champ disciplinaire (RD). Valide les demandes de Cours. Résoud les conflits. Veille à la cohérence de la base.
 * Responsable Editorial (RE). Responsable de la Ligne éditoriale du champ disciplinaire.
+* Responsable de Cours (RC): Valide les demandes d'Exos/Grains exprimé par (P).
+* Concepteur de contenus (CC). A partir d'un besoin exprimé par (P), écrit une spécification compréhensible par le programmeur.
+* Prof (P). exprime un besoin (Exo/Grain/Cours).
+* Programmeur (P). Code des contenus.
+* Testeur code (TC). Vérifie qu'un contenu correspond effectivement à sa spécification, et qu'il n'est pas buggé.
+* Testeur disciplinaire (TD). Vérifie qu'un contenu est correct scientifiquement et raisonnable pédagogiquement, au vu du grain/cours auquel il est rattaché.
